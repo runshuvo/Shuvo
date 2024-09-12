@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar1{
+    display: flex;
+    
+}
+nav>ul>li{
+    margin-right: 1rem;
+}
+.nav2{
+    display: flex;
+    flex-direction: row;
+}
